@@ -1,7 +1,7 @@
 
 ## ⚡ Sobre mim
 
-Me chamo Pedro Lima, atualmente no 8° Semestre de Engenharia de Computação, no SENAI CIMATEC. Sempre estou em busca de novos aprendizados e aprimorar as minhas habilidades com programação. Atualmente estou focando no Desenvolvimento Front-End, com alguns projetos de sites em andamento. 
+Me chamo Pedro Lima, atualmente no 9° Semestre de Engenharia de Computação, no SENAI CIMATEC. Sempre estou em busca de novos aprendizados e aprimorar as minhas habilidades com programação. 
 
  ## 🚀 Habilidades
  <div style="display: inline_block">
